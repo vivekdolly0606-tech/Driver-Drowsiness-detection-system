@@ -11,11 +11,11 @@ The system helps in preventing accidents caused by driver fatigue by providing i
 
 ##  Features
 
-* 👁️ Real-time face & eye tracking
-* 🧠 Drowsiness detection using eye closure analysis
-* 🔊 Alarm alert system when drowsiness is detected
-* ⚡ Fast and efficient processing
-* 🎯 Reduced false alerts using time threshold logic
+*  Real-time face & eye tracking
+*  Drowsiness detection using eye closure analysis
+*  Alarm alert system when drowsiness is detected
+*  Fast and efficient processing
+*  Reduced false alerts using time threshold logic
 
 
 
@@ -87,9 +87,9 @@ python main.py
 
 ##  Future Enhancements
 
-* 📱 Mobile app integration
-* ☁️ Cloud-based monitoring
-* 📊 Drowsiness analytics dashboard
-* 🚗 Integration with smart vehicles
+*  Mobile app integration
+*  Cloud-based monitoring
+*  Drowsiness analytics dashboard
+*  Integration with smart vehicles
 
 
